@@ -37,9 +37,8 @@ body {
 
 .page-header a.active {
     border-radius: 25px;
-    background-color: #fdd200;
-    color: black;
-    border: 2px solid black;
+    background-color: dodgerblue;
+    color: white;
   }
 
 .page-header a.header-text:hover{
